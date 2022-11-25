@@ -1,0 +1,12 @@
+ru\geekbrains\seminar1\modelelements\PoligonalModel.class
+ru\geekbrains\seminar1\modelelements\Vector3D.class
+ru\geekbrains\seminar1\modelelements\Poligon.class
+ru\geekbrains\seminar1\modelelements\Scene.class
+ru\geekbrains\seminar1\modelelements\Flash.class
+ru\geekbrains\seminar1\inmemorymodel\ModelStore.class
+ru\geekbrains\seminar1\inmemorymodel\ModelChanger.class
+ru\geekbrains\seminar1\inmemorymodel\ModelChangedObserver.class
+ru\geekbrains\seminar1\modelelements\Point3D.class
+ru\geekbrains\seminar1\modelelements\Texture.class
+ru\geekbrains\seminar1\modelelements\Camera.class
+ru\geekbrains\seminar1\modelelements\Angle3D.class
